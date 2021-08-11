@@ -1,0 +1,2 @@
+# cs50x
+All submissions for CS50x 2020
