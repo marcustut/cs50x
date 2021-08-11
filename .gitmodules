@@ -1,0 +1,9 @@
+[submodule "pset8/notes"]
+	path = pset8/notes
+	url = https://github.com/marcustut/ios-swift-notes
+[submodule "pset8/pokedex"]
+	path = pset8/pokedex
+	url = https://github.com/marcustut/ios-swift-pokedex
+[submodule "pset8/fiftygram"]
+	path = pset8/fiftygram
+	url = https://github.com/marcustut/ios-swift-fiftygram
